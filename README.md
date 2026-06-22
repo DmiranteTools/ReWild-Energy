@@ -17,7 +17,7 @@ Il tool è ottimizzato per l'Italia e si basa su dati raster geospaziali ad alta
 
 ### 🗺️ Interrogazione interattiva della mappa
 <p align="center">
-  <img src="assets/placeholder.png" alt="Main_img" width="800">
+  <img src="assets/placeholder.png" alt="Placeholder [insert images]" width="800">
 </p>
 - **Click su un punto** per analizzare una singola posizione geografica
 - **Selezione di un'area** (SHIFT + trascina) per analizzare una bounding box su larga scala
