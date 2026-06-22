@@ -17,7 +17,7 @@ Il tool è ottimizzato per l'Italia e si basa su dati raster geospaziali ad alta
 
 ### 🗺️ Interrogazione interattiva della mappa
 <p align="center">
-  <img src="assets/placeholder.png" alt="Placeholder [insert images]" width="800">
+  <img src="assets/tappabuchi.png" alt="Placeholder" width="800">
 </p>
 - **Click su un punto** per analizzare una singola posizione geografica
 - **Selezione di un'area** (SHIFT + trascina) per analizzare una bounding box su larga scala
@@ -49,16 +49,12 @@ Per ogni interrogazione il tool restituisce:
 
 ## 🚀 Installazione e avvio
 
-### Versione eseguibile (raccomandata per utenti business)
+1. Scaricare il pacchetto del programma su [Zenodo](https://zenodo.org/record/XXXXXXX) (formato `.zip`).
+2. Estrarre il contenuto dello zip in una cartella a piacere sul proprio computer.
+3. Aprire la cartella estratta, ed avviare `RewildEnergy.exe` con un semplice doppio-click.
+4. Il browser si aprirà automaticamente, ed il tool sarà immediatamente pronto all'uso.
 
-1. Scaricare e decomprimere il pacchetto distribuito (`.zip`)
-2. Assicurarsi che nella stessa cartella dell'eseguibile siano presenti:
-   - `SPECIES RWE - Birds.csv`
-   - la cartella `data/` con i raster delle distribuzioni
-3. Avviare `RewildEnergy.exe`
-4. Il browser si aprirà automaticamente all'indirizzo `http://127.0.0.1:5000`
-
-> ⚠️ Non è richiesta alcuna installazione di Python o di altri software. Il tool è completamente autonomo.
+> ⚠️ Non è richiesta alcuna installazione di software esterni, il tool è completamente autonomo.
 
 
 ## 📊 Dati
