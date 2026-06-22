@@ -16,9 +16,11 @@ Il tool è ottimizzato per l'Italia e si basa su dati raster geospaziali ad alta
 ## ✨ Funzionalità principali
 
 ### 🗺️ Interrogazione interattiva della mappa
+
 <p align="center">
   <img src="assets/tappabuchi.png" alt="Placeholder" width="800">
 </p>
+
 - **Click su un punto** per analizzare una singola posizione geografica
 - **Selezione di un'area** (SHIFT + trascina) per analizzare una bounding box su larga scala
 - **Inserimento manuale di coordinate** per interrogazioni precise su punti o aree definiti
