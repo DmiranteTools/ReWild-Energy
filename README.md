@@ -74,7 +74,5 @@ Nessuna Licenza
 
 📧 [alessandra.dalessio@uniroma1.it](mailto:alessandra.dalessio@uniroma1.it)
 
----
 
-*Rewild Energy Planning Tool — biodiversità e rinnovabili, insieme.*
 
