@@ -71,7 +71,7 @@ Sia per quanto riguarda i dati associati alle singole interrogazioni, sia per le
 
 ## Come utilizzare il Planning Tool (Windows):
 Il nostro strumento non richiede alcuna installazione o software esterno, e la sua installazione è immediata e di facile utilizzo. Basterà:
-  1. Scaricare il pacchetto del programma dal [Google Drive] (https://drive.google.com/drive/folders/1Yhx_tbX9OaCDAE1-4dk9IDuoBcffeK0t?usp=sharing) dedicato (formato `.zip`).
+  1. Scaricare il pacchetto del programma dal [Google Drive](https://drive.google.com/drive/folders/1Yhx_tbX9OaCDAE1-4dk9IDuoBcffeK0t?usp=sharing) dedicato (formato `.zip`).
   2. Estrarre il contenuto della cartella zip in una cartella a piacere, sul proprio computer.
   3. Aprire la cartella estratta ed avviare `RewildEnergy.exe` con un semplice doppio-click.
   4. Il browser si aprirà automaticamente, ed il tool sarà immediatamente pronto all'uso, anche in assenza di connessione internet.
