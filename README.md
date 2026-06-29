@@ -6,13 +6,13 @@ Questo prototipo dimostrativo è uno strumento di supporto sviluppato da Rewild 
 
 Nel settore energetico, per avviare le procedure di costruzione di nuovi impianti, le aziende devono affrontare procedure autorizzative complesse, come la Valutazione di Impatto Ambientale (VIA) o, nei casi legati a pianificazioni territoriali più ampie, la Valutazione Ambientale Strategica (VAS), e prima di essere approvato un impianto deve dimostrare dettagliatamente i potenziali effetti su ambiente, paesaggio, habitat e specie, e le misure previste per evitare o mitigare i suddetti impatti. Questo strumento è pensato come supporto per condurre analisi preliminari su larga scala, mirando a standardizzare e velocizzare la prima fase di valutazione del potenziale impatto ecologico del nuovo impianto. In seguito alla selezione dei siti utili con l'ausilio del nostro programma, Rewild Energy può assistere le aziende target anche in una seconda fase di esercizio, vantando un ampio team di ecologi e biologi della conservazione, formato da ricercatori e docenti del Dipartimento di Biologia e Biotecnologie Charles Darwin (Università la Sapienza di Roma), con ampia esperienza nel settore, in grado di pianificare e condurre tutti gli ulteriori sopralluoghi finalizzati all'approfondimento del caso specifico, attraverso studi specialistici dedicati mirati a:
 
--**valutazione dei vincoli ambientali**: Incluse aree protette e siti Natura 2000
+- **valutazione dei vincoli ambientali**: Incluse aree protette e siti Natura 2000
 
--**generazione di report faunistici dettagliati**: Inclusa una checklist di specie, pattern di uso dell'area, etc.
+- **generazione di report faunistici dettagliati**: Inclusa una checklist di specie, pattern di uso dell'area, etc.
 
--**indicazione di strategie di mitigazione consigliate**
+- **indicazione di strategie di mitigazione consigliate**
 
--**individuazione di aree idonee per la eventuale compensazione ecologica**
+- **individuazione di aree idonee per la eventuale compensazione ecologica**
 
  ⚠️ **Avvertenza**: Questo prototipo è puramente dimostrativo, ed è stato intenzionalmente sviluppato su un numero limitato di specie appartenenti alla sola avifauna italiana, con attribuzione di ipotetici valori di rischio delle singole specie (_Hazard_) non affidabili e solamente utili alla dimostrazione delle funzionalità del tool. 
 **Si sconsiglia dunque l'uso di questo prototipo per qualsiasi scopo non meramente illustrativo.**
