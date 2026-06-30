@@ -59,8 +59,7 @@ Al fine di facilitare un'interrogazione preliminare e visiva della mappa, il Pla
 
 ### 3. Modalità confronto
 La modalità confronto permette l'analisi comparativa di **fino a 5 siti** (punti o aree), in parallelo, al fine di facilitare la comparazione di vantaggi e svantaggi di potenziali siti d'elezione. Un pannello dedicato offre un riepilogo delle specie presenti, il loro stato di conservazione, e una comparazione di specie vulnerabili ed Hazard medio per ciascun sito. Lo stesso strumento, offre un'identificazione automatica del sito migliore, basata sui suddetti parametri, per il loro potenziale impatto sulla biodiversità.
-<
- p align="center">
+<p align="center">
   <img src="assets/Modalit_confronto.png" alt="Confronto" width="800">
 </p>
 
